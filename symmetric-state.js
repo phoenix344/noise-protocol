@@ -1,4 +1,4 @@
-var sodium = require('sodium-native')
+var sodium = require('libsodium-wrappers')
 var assert = require('nanoassert')
 var cipherState = require('./cipher-state')
 var hash = require('./hash')

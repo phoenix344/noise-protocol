@@ -1,4 +1,4 @@
-var sodium = require('sodium-native')
+var sodium = require('libsodium-wrappers')
 var cipher = require('../cipher')
 var test = require('tape')
 

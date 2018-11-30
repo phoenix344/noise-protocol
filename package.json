@@ -6,8 +6,8 @@
   "dependencies": {
     "clone": "^2.1.2",
     "hmac-blake2b": "^0.2.0",
-    "nanoassert": "^1.1.0",
-    "sodium-native": "^2.2.1"
+    "libsodium-wrappers": "^0.7.3",
+    "nanoassert": "^1.1.0"
   },
   "devDependencies": {
     "c8": "^3.2.0",
